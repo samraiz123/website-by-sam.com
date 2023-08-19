@@ -1,0 +1,25 @@
+.parents{
+background-image: url(./photo/footer-2_1.png);
+background-repeat: no-repeat;
+
+}
+.l-1 li{
+    list-style: none;
+}
+.l-2 li{
+    list-style: none;
+}
+.l-3 li{
+    list-style: none;
+}
+.last{
+    background-color: rgb(219, 222, 228);
+    border-top: solid black 2px;
+}
+.FRANGRANCES img{
+    height: auto;
+    width: 100%;
+}
+.navbar{
+    n
+}
